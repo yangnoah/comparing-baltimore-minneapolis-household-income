@@ -23,6 +23,6 @@ This analysis used data from the [Opportunity Atlas](https://www.opportunityatla
 
 ![alt text](https://github.com/yangnoah/comparing-baltimore-minneapolis-household-income/blob/master/Baltimore%20and%20Minneapolis.JPG)
 
-##Findings
+## Findings
 1. The best areas to grow up with a low parental income in Minneapolis lead to only slightly more income than the best areas in Baltimore. However, this difference gets larger and larger as yoe move down the rankings. This suggests that, in Baltimore, there are some areas where growing up with low income parents will not put you at a signficant disadvantage compared to growing up with a similar household income in Baltimore. 
 2. This suggests that there are concentrations of resources in Baltimore (transit, education, food pantries, etc) that cause certain neighbourhoods to be better for families who are lower income. Policies in Baltimore should look at spreading out these resources to ensure every family benefits. 
