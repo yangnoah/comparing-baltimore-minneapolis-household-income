@@ -26,3 +26,11 @@ This analysis used data from the [Opportunity Atlas](https://www.opportunityatla
 ## Findings
 1. The best areas to grow up with a low parental income in Minneapolis lead to only slightly more income than the best areas in Baltimore. However, this difference gets larger and larger as you move down the rankings. This suggests that, in Baltimore, there are some areas where growing up with low income parents will not put you at a significant disadvantage compared to growing up with a similar household income in Baltimore. 
 2. This suggests that there are concentrations of resources in Baltimore (transit, education, food pantries, etc) that cause certain neighbourhoods to be better for families who are lower income. Policies in Baltimore should look at spreading out these resources to ensure every family benefits. 
+
+## Plotly Analysis
+1. This analysis was redone with Python
+2. The data used was the one from the [previous](https://github.com/yangnoah/comparing-baltimore-minneapolis-household-income/blob/master/Processed%20Data.csv)
+3. Analysis was completed using plotly express and graphed as shown below: 
+
+![alt text](https://github.com/yangnoah/comparing-baltimore-minneapolis-household-income/blob/master/plotly1.JPG)
+![alt text](https://github.com/yangnoah/comparing-baltimore-minneapolis-household-income/blob/master/poloty2.JPG)
